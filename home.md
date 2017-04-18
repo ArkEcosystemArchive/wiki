@@ -2,7 +2,7 @@
 
 ## What Is ARK?
 
-ARK provides users with innovative use cases through the development and integration of technologies that power the blockchain universe. Highly flexible and adaptable, ARK is a secure platform designed for mass adoption and will deliver the services that consumers want..
+ARK provides users with innovative use cases through the development and integration of technologies that power the blockchain universe. Highly flexible and adaptable, ARK is a secure platform designed for mass adoption and will deliver the services that consumers want.
 
 ---
 
