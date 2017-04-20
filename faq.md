@@ -2,6 +2,8 @@
 
 ### What is Ark and the Ark Ecosystem?
 
+- Board the Ark: https://vimeo.com/189410308
+
 ### Where can I learn more about the Ark Ecosystem?
 
 - Main site: https://ark.io/
@@ -16,34 +18,56 @@
 
 ### What are the main project repositories?
 
+- Ark Desktop: https://github.com/ArkEcosystem/ark-desktop
+- Ark Node: https://github.com/ArkEcosystem/ark-node
+- Ark JS: https://github.com/ArkEcosystem/ark-js
+
 ### How can I get Ark?
 
 - Bittrex: https://bittrex.com/Market/Index?MarketName=BTC-ARK
 - Cryptopia: https://www.cryptopia.co.nz/Exchange/?market=ARK_BTC
 
-
-
 ## Applications
 
 ### What kind of wallets are supported?
 
+- Ark Desktop: https://github.com/ArkEcosystem/ark-desktop/releases
+- Ark Lite Wallet: https://arkecosystem.github.io/ark-lite-wallet/app
+
 ### How can I find out more about the network?
 
-
+- Explorer: https://explorer.ark.io/
 
 ## Concepts
 
 ### What is delegated proof of stake (dPOS)?
 
+Ark uses the Delegated Proof of Stake (DPoS) consensus system that was first introduced by BitShares. This consensus algorithm was designed to eliminate the issues associated with Proof of Work (PoW), namely the centralization of computing power and the exponentially increasing waste of real world energy. While not completely decentralized as it relies on consensus by a fixed number of elected delegates, it guarantees a better decentralization than Bitcoin. The consensus algorithm implementation is improved over time, evolving into an optimal consensus system.
+
 ### What is a SmartBridge?
 
-### What is a cold wallet?
+The ARK Platform does not provide direct support for sidechains or dapp databases. Instead, a mechanism to bridge together blockchains is provided via a bridging function built into ARK Core where any blockchain can send and receive trigger function notices and informational data through the primary ARK network via custom developed SmartBridge(s) and Encoded Listeners.
 
-### What is forging?
+### How do you mine Ark? What is forging?
 
-### What is a delegate?
+Mining is calld forging in Ark. The 51 elected delegates can forge new Ark with their network nodes.
 
-### What is voting?
+### So how do I become a delegate who can forge?
+
+You have to register as delegate and get enough votes to join the top 51 delegates.
+
+### So how do I vote?
+
+Each wallet can cast a vote on a delegate. The delegate will receive votes accorging to the balance of the voters wallets.
+
+### How can I make profit if I am not a delegate?
+
+Some delegates pass on profits to their voters. Profit sharing is optional and up to the agreement between delegate and voter.
+
+
+
+
+
 
 
 
