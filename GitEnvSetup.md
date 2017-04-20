@@ -7,10 +7,8 @@ In order to start contributing to community, you need to pull the code and start
 
 The following short guide will help you setup an easy to contribute environment for the Ark Ecosystem.
 
-
-# GIT basics of and the available tooling
-Take a look at this awesome **no deep shit guide** from Roger Dudler - http://http://rogerdudler.github.io/git-guide/. It will take you thru the installation process and explain all you need to know to start using git.
-
+# Git basics and the available tooling
+Take a look at this awesome **no deep shit guide** from Roger Dudler - http://rogerdudler.github.io/git-guide/. It will take you thru the installation process and explain all you need to know to start using git.
 
 [Optional] Install GUI Git client. You can select from:
 - GitHub Desktop https://desktop.github.com/
@@ -21,14 +19,21 @@ Take a look at this awesome **no deep shit guide** from Roger Dudler - http://ht
 A list of avaiable ARK project/repositories is accesible here: https://github.com/ArkEcosystem/. 
 - Select a project you would like to learn about and contribute to
 - Fork the project (you will need to be signed-in to github to acomplish this)
-- Clone the project you just forked (omg - how many stranged words:))
-    git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
+- Clone the project you just forked (omg - how many strange words:))
+```git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git```
 - Start working and viewing, editing the code.
 
 # Contributing the code to ARK ecosystem
 Let's say you found a bug, or a simple code correction suggestion. You have already tested it on your local environment, but you would also love to share it with the community (don't forget the bounty:)). To acomplish this:
-- Commit your local repository changes with explanations - why you did this
+- Commit your local repository changes with explanations - why you did this, what you found, what is the improvement
+```
+git add FILENAME
+git commit -m "Commit message"
+```
 - Push the changes to your fork of Ark project
+```
+git push origin master
+```
 - Create a new pull request between ArkEcosystem git project and you personal project fork
 
 # Keeping your fork up to date
@@ -47,19 +52,3 @@ Let's say you found a bug, or a simple code correction suggestion. You have alre
 
     git pull upstream master
 
-
-And here's some code! :+1:
-
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
-
-And here's some code! :+1:
-
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
