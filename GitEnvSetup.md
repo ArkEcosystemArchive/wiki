@@ -6,9 +6,21 @@ As a fully open source project, ARK will live and die by it’s community contri
 In order to start contributing to community, firstly you need to pull our code and start learning/playing with it.
 
 
-# First steps!
-- Get familliar with GIT (a distribted source control system). Check out this no deep shit guide here: http://rogerdudler.github.io/git-guide/ 
+# Basics of GIT and available tools
+- Take a look at this awesome no deep shit guide from Roger Dudler. It will take you thru the installation process and explain all you need to know to start using git
 - Install GIT client on your computer (see the above guide on how to accomplish this)
+- [Optionally] Install GUI Git client. You can select from:
+- - GitHub Desktop https://desktop.github.com/
+- - Atlassian SourceTree https://www.sourcetreeapp.com/
+- - Tortoise GIT https://tortoisegit.org/
+
+And here's some code! :+1:
+
+```javascript
+$(function(){
+  $('div').html('I am a div.');
+});
+```
 
 And here's some code! :+1:
 
