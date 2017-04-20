@@ -1,9 +1,11 @@
-# ARK - Connecting to ARKEcosystem on github
+# ARK - Connecting to Ark Ecosystem on GitHub
 
 TODO LINK TO SOME ARK HEADER PHOTO
 
 As a fully open source project, ARK will live and die by it’s community contributions. We truly believe that the future of the ARK Ecosystem depends on a strong collaborative effort between the ARK Crew and our open source developers and designers. As such, we want to promote and encourage community contributions to all aspects of the project.
-In order to start contributing to community, firstly you need to pull our code and start learning/playing with it.
+In order to start contributing to community, you need to pull the code and start learning/playing with it.
+
+The following short guide will help you setup an easy to contribute environment for the Ark Ecosystem.
 
 
 # GIT basics of and the available tooling
