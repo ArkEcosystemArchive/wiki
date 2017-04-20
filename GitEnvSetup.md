@@ -1,4 +1,4 @@
-![alt text](https://github.com/kristjank/wiki/blob/master/images/ArkWikiLogo.png)
+![alt text](https://github.com/kristjank/wiki/blob/master/images/ArkWiki.png)
 
 # ARK - Connecting to Ark Ecosystem on GitHub
 
