@@ -1,4 +1,4 @@
-![](https://cdn-images-1.medium.com/max/176/1*XsC_e1Uc43PAn9VqtvnLjg@2x.png)
+![alt text](https://github.com/kristjank/wiki/blob/master/images/ArkWiki.png)
 
 ## What Is ARK?
 
@@ -11,9 +11,16 @@ ARK provides users with innovative use cases through the development and integra
 * [ARK Official site](https://ark.io/)
 * [ARK Blog](https://blog.ark.io/)
 
+#### Other relevant information
+* [Frequently Asked Questions](faq.md)
+* [101 Git Development Environment setup](GitEnvSetup.md)
+
 #### Communication channels
 
 * [ARK Slack Chat](http://ark.chat/) [Slack Invite](https://ark.io/join-ark-slack/)
 * [ARK Forum](https://forum.ark.io/)
 * [BitcoinTalk Official Thread](https://bitcointalk.org/index.php?topic=1649695.0)
 * [Reddit](https://www.reddit.com/r/ArkEcosystem/)
+
+---
+For more information [join our slack](https://ark.io/join-ark-slack/). We have very active and friendly community, where you can always find  answers, tips or just have some fun:)

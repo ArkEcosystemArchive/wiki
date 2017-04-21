@@ -60,7 +60,5 @@ As a separate fork your repo still needs to stay up to date with the main fork. 
 
 # Other information
 
-1. Home wiki page
-2. ARK Faq
-3.
-4. 
+1. [Wiki README](README.md)
+2. [FAQ](faq.md)
