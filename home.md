@@ -16,3 +16,4 @@ ARK provides users with innovative use cases through the development and integra
 * [ARK Slack Chat](http://ark.chat/) [Slack Invite](https://ark.io/join-ark-slack/)
 * [ARK Forum](https://forum.ark.io/)
 * [BitcoinTalk Official Thread](https://bitcointalk.org/index.php?topic=1649695.0)
+* [Reddit](https://www.reddit.com/r/ArkEcosystem/)
