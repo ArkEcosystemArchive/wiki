@@ -60,5 +60,5 @@ As a separate fork your repo still needs to stay up to date with the main fork. 
 
 # Other information
 
-1. [Wiki Home](home.md)
+1. [Wiki README](README.md)
 2. [FAQ](faq.md)
