@@ -1,4 +1,4 @@
-![](https://cdn-images-1.medium.com/max/176/1*XsC_e1Uc43PAn9VqtvnLjg@2x.png)
+![alt text](https://github.com/kristjank/wiki/blob/master/images/ArkWiki.png)
 
 ## What Is ARK?
 
@@ -17,3 +17,7 @@ ARK provides users with innovative use cases through the development and integra
 * [ARK Forum](https://forum.ark.io/)
 * [BitcoinTalk Official Thread](https://bitcointalk.org/index.php?topic=1649695.0)
 * [Reddit](https://www.reddit.com/r/ArkEcosystem/)
+
+#### Other relevant information
+* [Frequently Asked Questions about ARK](faq.md)
+* [101 Git develepment environment setup](GitEnvSetup.md)
