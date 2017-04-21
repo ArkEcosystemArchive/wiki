@@ -18,6 +18,8 @@ ARK provides users with innovative use cases through the development and integra
 * [BitcoinTalk Official Thread](https://bitcointalk.org/index.php?topic=1649695.0)
 * [Reddit](https://www.reddit.com/r/ArkEcosystem/)
 
-#### Other relevant information
-* [Frequently Asked Questions about ARK](faq.md)
-* [101 Git develepment environment setup](GitEnvSetup.md)
+#### Information
+* [Frequently Asked Questions](faq.md)
+* [101 Git Development Environment setup](GitEnvSetup.md)
+
+For more information join our slack. We have very active and friendly community where you can always find some additional helpfull answers and tips.
