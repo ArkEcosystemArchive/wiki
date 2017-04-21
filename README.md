@@ -22,4 +22,4 @@ ARK provides users with innovative use cases through the development and integra
 * [Frequently Asked Questions](faq.md)
 * [101 Git Development Environment setup](GitEnvSetup.md)
 
-For more information join our slack. We have very active and friendly community where you can always find some additional helpfull answers and tips.
+For more information [join our slack](https://ark.io/join-ark-slack/). We have very active and friendly community where you can always find  answers, tips or just have some fun:)
