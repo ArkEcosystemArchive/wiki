@@ -26,6 +26,8 @@
 
 - Bittrex: https://bittrex.com/Market/Index?MarketName=BTC-ARK
 - Cryptopia: https://www.cryptopia.co.nz/Exchange/?market=ARK_BTC
+- Litebit: https://www.litebit.eu/en/buy/ark
+- Coss: https://exchange.coss.io/pair/ark-btc
 
 ## Applications
 
@@ -33,10 +35,12 @@
 
 - Ark Desktop: https://github.com/ArkEcosystem/ark-desktop/releases
 - Ark Lite Wallet: https://arkecosystem.github.io/ark-lite-wallet/app
+- Ark Paper Wallet: https://github.com/ArkEcosystem/ark-paperwallet
 
 ### How can I find out more about the network?
 
 - Explorer: https://explorer.ark.io/
+- ArkStats: https://arkstats.net/
 
 ## Concepts
 
