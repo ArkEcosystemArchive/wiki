@@ -54,7 +54,7 @@ The ARK Platform does not provide direct support for sidechains or dapp database
 
 ### How do you mine Ark? What is forging?
 
-Mining is calld forging in Ark. The 51 elected delegates can forge new Ark with their network nodes.
+Mining is called forging in Ark. The 51 elected delegates can forge new Ark with their network nodes.
 
 ### How do I become a delegate?
 
@@ -64,7 +64,7 @@ How to Register a Delegate: https://blog.ark.io/how-do-i-register-as-an-ark-dele
 
 ### How do I vote?
 
-Each wallet can cast a vote on a delegate. The delegate will receive votes accorging to the balance of the voters wallets.
+Each wallet can cast a vote on a delegate. The delegate will receive votes according to the balance of the voters wallets.
 
 How to Vote: https://blog.ark.io/how-to-vote-or-un-vote-an-ark-delegate-and-how-does-it-all-work-819c5439da68
 
