@@ -16,9 +16,9 @@ Take a look at this awesome **no deep shit guide** from Roger Dudler - http://ro
 - Tortoise GIT https://tortoisegit.org/
 
 # Accessing ARK ecosystem code
-A list of avaiable ARK project/repositories is accesible here: https://github.com/ArkEcosystem/. 
+A list of available ARK project/repositories is accessible here: https://github.com/ArkEcosystem/. 
 #### 1. Select a project you would like to learn about and contribute to
-#### 2. Fork the project (you will need to be signed-in to github to acomplish this)
+#### 2. Fork the project (you will need to be signed-in to github to accomplish this)
 #### 3. Clone the project you just forked (omg - how many strange words:))
 
 ```git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git```
@@ -26,7 +26,7 @@ A list of avaiable ARK project/repositories is accesible here: https://github.co
 #### 4. Start working and viewing, editing the code.
 
 # Contributing the code to ARK ecosystem
-Let's say you found a bug, or a simple code correction suggestion. You have already tested it on your local environment, but you would also love to share it with the community (don't forget the bounty:)). To acomplish this:
+Let's say you found a bug, or a simple code correction suggestion. You have already tested it on your local environment, but you would also love to share it with the community (don't forget the bounty:)). To accomplish this:
 - Commit your local repository changes with explanations - why you did this, what you found, what is the improvement
 ```
 git add FILENAME
@@ -41,7 +41,7 @@ git push origin master
 After completing the pull request ARK team will go thru the proposed changes and accept, decline or ask for further explanations of your proposal.
 
 # Keeping your fork up to date
-As a separate fork your repo still needs to stay up to date with the main fork. Follow the steps bellow to setup up remote git upstream.
+As a separate fork your repo still needs to stay up to date with the main fork. Follow the steps below to set up remote git upstream.
 
 ### 1. Clone your fork (if your already did this in previous steps, just go to root directory):
 
