@@ -64,7 +64,7 @@ How to Register a Delegate: https://blog.ark.io/how-do-i-register-as-an-ark-dele
 
 ### How do I vote?
 
-Each wallet can cast a vote on a delegate. The delegate will receive votes aaccording to the balance of the voter's wallets.
+Each wallet can cast a vote on a delegate. The delegate will receive votes according to the balance of the voter's wallets.
 
 How to Vote: https://blog.ark.io/how-to-vote-or-un-vote-an-ark-delegate-and-how-does-it-all-work-819c5439da68
 
