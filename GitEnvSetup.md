@@ -41,7 +41,7 @@ git push origin master
 After completing the pull request, ARK team will go thru the proposed changes and accept, decline or ask for further explanations of your proposal.
 
 # Keeping your fork up to date
-As a separate fork your repo still needs to stay up to date with the main fork. Follow the steps bellow to setup up remote git upstream.
+As a separate fork your repo still needs to stay up to date with the main fork. Follow the steps below to set up remote git upstream.
 
 ### 1. Clone your fork (if you already did this in previous steps, just go to root directory):
 
