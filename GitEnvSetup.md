@@ -2,8 +2,8 @@
 
 # ARK - Connecting to Ark Ecosystem on GitHub
 
-As a fully open source project, ARK will live and die by it’s community contributions. We truly believe that the future of the ARK Ecosystem depends on a strong collaborative effort between the ARK Crew and our open source developers and designers. As such, we want to promote and encourage community contributions to all aspects of the project.
-In order to start contributing to community, you need to pull the code and start learning/playing with it.
+As a fully open source project, ARK will live and die by its community contributions. We truly believe that the future of the ARK Ecosystem depends on a strong collaborative effort between the ARK Crew and our open source developers and designers. As such, we want to promote and encourage community contributions to all aspects of the project.
+In order to start contributing to the community, you need to pull the code and start learning/playing with it.
 
 The following short guide will help you setup an easy to contribute environment for the Ark Ecosystem.
 
@@ -38,12 +38,12 @@ git push origin master
 ```
 - Create a new pull request between ArkEcosystem git project and you personal project fork
 
-After completing the pull request ARK team will go thru the proposed changes and accept, decline or ask for further explanations of your proposal.
+After completing the pull request, ARK team will go thru the proposed changes and accept, decline or ask for further explanations of your proposal.
 
 # Keeping your fork up to date
 As a separate fork your repo still needs to stay up to date with the main fork. Follow the steps below to set up remote git upstream.
 
-### 1. Clone your fork (if your already did this in previous steps, just go to root directory):
+### 1. Clone your fork (if you already did this in previous steps, just go to root directory):
 
     git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
 

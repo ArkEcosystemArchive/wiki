@@ -10,7 +10,7 @@
 - Forum: https://forum.ark.io/
 - Github: https://github.com/arkecosystem
 - Blog: https://blog.ark.io/
-- Whitepaper: https://ark.io/Whitepaper-ARK.pdf
+- Whitepaper: https://ark.io/Whitepaper.pdf
 - Facebook: https://www.facebook.com/arkecosystem
 - Reddit: https://www.reddit.com/r/arkecosystem
 - Twitter: https://www.twitter.com/arkecosystem
@@ -58,13 +58,13 @@ Mining is called forging in Ark. The 51 elected delegates can forge new Ark with
 
 ### How do I become a delegate?
 
-You have to register as delegate and get enough votes to join the top 51 delegates.
+You have to register as a delegate and get enough votes to join the top 51 delegates.
 
 How to Register a Delegate: https://blog.ark.io/how-do-i-register-as-an-ark-delegate-133ed2bf218
 
 ### How do I vote?
 
-Each wallet can cast a vote on a delegate. The delegate will receive votes according to the balance of the voters wallets.
+Each wallet can cast a vote on a delegate. The delegate will receive votes according to the balance of the voter's wallets.
 
 How to Vote: https://blog.ark.io/how-to-vote-or-un-vote-an-ark-delegate-and-how-does-it-all-work-819c5439da68
 
