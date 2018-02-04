@@ -10,7 +10,7 @@
 - Forum: https://forum.ark.io/
 - Github: https://github.com/arkecosystem
 - Blog: https://blog.ark.io/
-- Whitepaper: https://ark.io/Whitepaper-ARK.pdf
+- Whitepaper: https://ark.io/Whitepaper.pdf
 - Facebook: https://www.facebook.com/arkecosystem
 - Reddit: https://www.reddit.com/r/arkecosystem
 - Twitter: https://www.twitter.com/arkecosystem
