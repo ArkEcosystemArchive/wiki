@@ -14,7 +14,7 @@
 - Facebook: https://www.facebook.com/arkecosystem
 - Reddit: https://www.reddit.com/r/arkecosystem
 - Twitter: https://www.twitter.com/arkecosystem
-- Slack: https://ark.io/join-ark-slack
+- Slack: https://ark.io/slack
 
 ### What are the main project repositories?
 
@@ -36,7 +36,7 @@
 - Ark Desktop: https://github.com/ArkEcosystem/ark-desktop/releases
 - Ark Lite Wallet: https://arkecosystem.github.io/ark-lite-wallet/app
 - Ark Paper Wallet: https://github.com/ArkEcosystem/ark-paperwallet
-
+- Ark Mobile Wallet: https://github.com/ArkEcosystem/ark-mobile
 ### How can I find out more about the network?
 
 - Explorer: https://explorer.ark.io/
